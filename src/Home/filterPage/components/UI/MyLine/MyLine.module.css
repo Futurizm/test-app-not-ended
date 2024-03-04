@@ -1,0 +1,7 @@
+.myLine {
+    margin: 16px 20px;
+    height: 1px;
+    width: calc(100% - 40px);
+    background-color: #ECECEC;
+}
+
